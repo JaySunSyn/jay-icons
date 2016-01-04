@@ -1,10 +1,10 @@
 {
   "name": "jay-icons",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "authors": [
-    "Anonymous <anonymous@example.com>"
+    "Jalal Fathi <jfathi.mail@gmail.com> (http://jalal.io)"
   ],
-  "description": "An element providing a solution to no problem in particular.",
+  "description": "Additional icon sets to use with iron-icon",
   "keywords": [
     "web-component",
     "web-components",
