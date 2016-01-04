@@ -1,6 +1,6 @@
 # jay-icons
 
-An element to use with Polymer's iron-icon element.
+Icons to use with Polymer's iron-icon element.
 
     <iron-icon icon="med:balls"></iron-icon>
     <iron-icon icon="med:chromosome"></iron-icon>
@@ -19,6 +19,6 @@ An element to use with Polymer's iron-icon element.
 ## Demo
 [Demo](http://jaysunsyn.github.io/jay-icons/)
 
-Install jay-icons:
+## Install
 
     bower i jay-icons -S
