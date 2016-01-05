@@ -10,7 +10,8 @@
     "web-components",
     "polymer",
     "icons",
-    "medical"
+    "medical",
+    "insurance"
   ],
   "main": "jay-icons.html",
   "license": "http://polymer.github.io/LICENSE.txt",
