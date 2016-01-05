@@ -1,0 +1,39 @@
+{
+  "name": "jay-icons",
+  "authors": [
+    "Jalal Fathi <jfathi.mail@gmail.com> (http://jalal.io)"
+  ],
+  "description": "Additional icon sets to use with iron-icon",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "icons",
+    "medical"
+  ],
+  "main": "jay-icons.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/JaySunSyn/jay-icons.git",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.1.0",
+    "iron-iconset-svg": "PolymerElements/iron-iconset-svg#~1.0.9",
+    "iron-icon": "PolymerElements/iron-icon#~1.0.7"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0"
+  },
+  "_release": "ff381e6ad7",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "ff381e6ad79c2665f659b4a090152f4acf2cdeb0"
+  },
+  "_source": "git://github.com/JaySunSyn/jay-icons.git",
+  "_target": "master",
+  "_originalSource": "JaySunSyn/jay-icons",
+  "_direct": true
+}
