@@ -14,11 +14,28 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0, user-scalable=yes">
     <title>jay-icons Demo</title>
     <script src="../../webcomponentsjs/webcomponents-lite.js"></script>
-    <link rel="import" href="../../bower_components/iron-icon/iron-icon.html">
+
+    <link rel="import" href="../../iron-icon/iron-icon.html">
     <link rel="import" href="../jay-icons.html">
+
+    <style>
+
+      .med-icons {
+        color: red;
+        --iron-icon-height: 60px;
+        --iron-icon-width: 60px;
+      }
+
+      .insurance-icons {
+        color: green;
+        --iron-icon-height: 60px;
+        --iron-icon-width: 60px;
+      }
+    </style>
   </head>
   <body unresolved>
 
+  <section class="med-icons">
     <iron-icon icon="med:balls"></iron-icon>
     <iron-icon icon="med:chromosome"></iron-icon>
     <iron-icon icon="med:drops"></iron-icon>
@@ -32,6 +49,30 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
     <iron-icon icon="med:syringe"></iron-icon>
     <iron-icon icon="med:tooth"></iron-icon>
     <iron-icon icon="med:thermometer"></iron-icon>
+  </section>
+
+  <section class="insurance-icons">
+    <iron-icon icon="insurance:plane-crash"></iron-icon>
+    <iron-icon icon="insurance:car-crash"></iron-icon>
+    <iron-icon icon="insurance:family-hold"></iron-icon>
+    <iron-icon icon="insurance:family-top"></iron-icon>
+    <iron-icon icon="insurance:home-fire"></iron-icon>
+    <iron-icon icon="insurance:cracks"></iron-icon>
+    <iron-icon icon="insurance:arm"></iron-icon>
+    <iron-icon icon="insurance:heart-hold"></iron-icon>
+    <iron-icon icon="insurance:home-crash"></iron-icon>
+    <iron-icon icon="insurance:home-hold"></iron-icon>
+    <iron-icon icon="insurance:home-lightning"></iron-icon>
+    <iron-icon icon="insurance:insurance"></iron-icon>
+    <iron-icon icon="insurance:insurance-button"></iron-icon>
+    <iron-icon icon="insurance:insurance-theft"></iron-icon>
+    <iron-icon icon="insurance:insurance-thunder"></iron-icon>
+    <iron-icon icon="insurance:locked"></iron-icon>
+    <iron-icon icon="insurance:baby-hold"></iron-icon>
+    <iron-icon icon="insurance:moving-top"></iron-icon>
+    <iron-icon icon="insurance:tsunami"></iron-icon>
+  </section>
+
 
   </body>
 </html>
