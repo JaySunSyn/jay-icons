@@ -1,6 +1,8 @@
+[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://beta.webcomponents.org/element/owner/my-element)
+
 # jay-icons
 
-Icons to use with Polymer's iron-icon element.
+Medical Icons to use with Polymer's iron-icon element.
 
     <iron-icon icon="med:balls"></iron-icon>
     <iron-icon icon="med:chromosome"></iron-icon>
